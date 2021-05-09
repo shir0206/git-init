@@ -1,1 +1,6 @@
-yarn start
+git init
+git status
+git log
+git add .
+git commit -m "commit message"
+LALA
