@@ -1,6 +1,6 @@
-git init
+git init - tells git to start tracking changes (from scratch) in current folder
 git status
-git log
+git log - shows commit history (starting at most recent)
 git add .
 git commit -m "commit message"
 git diff
